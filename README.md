@@ -1,2 +1,2 @@
-# 3D_Chess_Game
+# 3D Chess Game
 Capstone project made in Unity - C#
